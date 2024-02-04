@@ -77,6 +77,28 @@ select {
 
 /* 👇 Start custom code 👇 */
 
+body {
+    background-color: #CAF564;
+    color: #000000;
+    font-weight: bold;
+    margin: auto;
+    width: 340px;
+    
+    
+}
+
+
+h1, h2, h3, h5, h6 {
+    font-family:"Press Start 2P" ;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+
+
 
 
 
